@@ -1,0 +1,98 @@
+package guiExamples;
+
+import java.awt.BorderLayout;
+import java.awt.Container;
+import java.awt.Font;
+
+import javax.swing.Icon;
+import javax.swing.JFrame;
+import javax.swing.JRadioButton;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+
+public class VentanaResultados extends JFrame {
+
+	
+	private static final String birdString = "bird";
+	
+	public VentanaResultados() {
+
+        Container cp = getContentPane();
+        cp.setLayout(new BorderLayout());
+        // Nombres de las columnas 
+        final String[] Columnas = {"Familia", "Precio por día"};
+
+        // Datos 
+        Object[][] datos = {
+            {"", ""}};
+
+        JTable tabla = new JTable(datos, Columnas);
+
+        tabla.setFont(new Font("Arial", Font.BOLD, 18));
+        tabla.setRowHeight(24);
+
+        JScrollPane jsp = new JScrollPane(tabla); // ,ver , hor) ;
+
+        cp.add(jsp, BorderLayout.CENTER);
+        
+        
+        JRadioButton rb = new JRadioButton();
+        rb.add("hola",null);
+        cp.add(new JRadioButton(),BorderLayout.SOUTH);
+        
+        setSize(500, 300);
+        setVisible(true);
+    }
+	
+	private void initialize(){
+		//In initialization code:
+	    //Create the radio buttons.
+	    JRadioButton birdButton = new JRadioButton(birdString);
+	    birdButton.setMnemonic(KeyEvent.VK_B);
+	    birdButton.setActionCommand(birdString);
+	    birdButton.setSelected(true);
+
+	    JRadioButton catButton = new JRadioButton(catString);
+	    catButton.setMnemonic(KeyEvent.VK_C);
+	    catButton.setActionCommand(catString);
+
+	    JRadioButton dogButton = new JRadioButton(dogString);
+	    dogButton.setMnemonic(KeyEvent.VK_D);
+	    dogButton.setActionCommand(dogString);
+
+	    JRadioButton rabbitButton = new JRadioButton(rabbitString);
+	    rabbitButton.setMnemonic(KeyEvent.VK_R);
+	    rabbitButton.setActionCommand(rabbitString);
+
+	    JRadioButton pigButton = new JRadioButton(pigString);
+	    pigButton.setMnemonic(KeyEvent.VK_P);
+	    pigButton.setActionCommand(pigString);
+
+	    //Group the radio buttons.
+	    ButtonGroup group = new ButtonGroup();
+	    group.add(birdButton);
+	    group.add(catButton);
+	    group.add(dogButton);
+	    group.add(rabbitButton);
+	    group.add(pigButton);
+
+	    //Register a listener for the radio buttons.
+	    birdButton.addActionListener(this);
+	    catButton.addActionListener(this);
+	    dogButton.addActionListener(this);
+	    rabbitButton.addActionListener(this);
+	    pigButton.addActionListener(this);
+	    
+	}
+	
+	public void actionPerformed(ActionEvent e) {
+	    picture.setIcon(new ImageIcon("images/" 
+	                                  + e.getActionCommand() 
+	                                  + ".gif"));
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		VentanaResultados vr = new VentanaResultados(); 
+	}
+
+}

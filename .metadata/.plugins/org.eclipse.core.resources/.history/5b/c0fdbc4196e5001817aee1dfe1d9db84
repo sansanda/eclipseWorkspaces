@@ -1,0 +1,48 @@
+package guiExamples;
+
+import java.awt.BorderLayout;
+import java.awt.Container;
+import java.awt.Font;
+
+import javax.swing.JFrame;
+import javax.swing.JRadioButton;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+
+public class VentanaResultados extends JFrame {
+
+	public VentanaResultados() {
+
+        Container cp = getContentPane();
+        cp.setLayout(new BorderLayout());
+        // Nombres de las columnas 
+        final String[] Columnas = {"Familia", "Precio por día"};
+
+        // Datos 
+        Object[][] datos = {
+            {"", ""}};
+
+        JTable tabla = new JTable(datos, Columnas);
+
+        tabla.setFont(new Font("Arial", Font.BOLD, 18));
+        tabla.setRowHeight(24);
+
+        JScrollPane jsp = new JScrollPane(tabla); // ,ver , hor) ;
+
+        cp.add(jsp, BorderLayout.CENTER);
+        
+        
+        JRadioButton rb = new JRadioButton();
+        rb.add("hola",null);
+        cp.add(new JRadioButton(),BorderLayout.SOUTH);
+        
+        setSize(500, 300);
+        setVisible(true);
+    }
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		VentanaResultados vr = new VentanaResultados(); 
+	}
+
+}

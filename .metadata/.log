@@ -2217,3 +2217,1399 @@ java.io.IOException: Server returned HTTP response code: 503 for URL: http://vaa
 
 !ENTRY com.vaadin.designer2 1 0 2018-11-14 18:11:48.605
 !MESSAGE Vaadin 7+ projects to upgrade : []
+!SESSION 2018-11-15 16:35:19.375 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:27.246
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:27.253
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:27.569
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:27.570
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:28.038
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:28.058
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:28.066
+!MESSAGE Save JSON notifications content to cache file I:\repos\eclipseWorkspaces\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:28.268
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:28.294
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:57.347
+!MESSAGE All vaadin 7+ projects : [P/MyFirstVaadinApp]
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 16:35:57.627
+!MESSAGE Vaadin 7+ projects to upgrade : [P/MyFirstVaadinApp]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 16:35:59.846
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 16:36:02.429
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 16:42:17.127
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 16:42:17.141
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:21:16.869
+!MESSAGE The POM for org.vaadin.setpbystep:person-service:jar:2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:22:27.399
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:22:27.736
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:22:46.158
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:22:46.474
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:22:47.691
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.update.configurator 4 0 2018-11-15 17:46:44.358
+!MESSAGE Can't find bundle for base name feature, locale es_ES
+!SESSION 2018-11-15 17:49:27.367 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/I:/repos/eclipseWorkspaces/ -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:36.913
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:36.920
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:37.283
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:37.283
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:38.103
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:38.150
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:38.151
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:38.162
+!MESSAGE Save JSON notifications content to cache file I:\repos\eclipseWorkspaces\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:49:38.219
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 17:49:49.575
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 17:49:49.586
+!MESSAGE IvyDE plugin started
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:50:06.986
+!MESSAGE All vaadin 7+ projects : [P/MyFirstVaadinApp]
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 17:50:07.274
+!MESSAGE Vaadin 7+ projects to upgrade : [P/MyFirstVaadinApp]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:50:58.001
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:51:00.531
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:55:43.782
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:55:44.097
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:55:45.321
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:56:54.296
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:56:54.625
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:57:33.256
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:57:33.546
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:57:34.775
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:58:10.383
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:58:10.722
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 17:58:11.944
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:05:46.771
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:05:47.167
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:05:48.382
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+!SESSION 2018-11-15 18:06:38.725 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/I:/repos/eclipseWorkspaces/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2018-11-15 18:07:16.189
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-15 18:07:16.189
+!MESSAGE A conflict occurred for CTRL+6:
+Binding(CTRL+6,
+	ParameterizedCommand(Command(com.vaadin.integration.eclipse.commands.compileWidgetsetCommand,Compile Widgetset Command,
+		,
+		Category(com.vaadin.integration.eclipse.commands.category,Vaadin Category,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@63c31664,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+6,
+	ParameterizedCommand(Command(org.jboss.tools.jst.web.ui.internal.editor.commands.showSelectionBar,Toggle selection tag bar,
+		,
+		Category(org.jboss.tools.jst.jsp.commands.category,Visual Page Editor Category,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48bafe39,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:25.001
+!MESSAGE HibernatePlugin Started
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:25.752
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:25.755
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:26.226
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:26.226
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:07:26.926
+!MESSAGE Invalid cookie header: "Set-Cookie: AWSALB=vXMBH9N6wM9r9li8xeByaJicy4X5DLCDtSkJ9wTk4hvgoUSE2sFJwWt7N6Yv2nMNVYjVIfbSMOMhsEpBYF7UibYYZhiktKmdz8b/p5G8ulJ+niPelpeineMr16ID; Expires=Thu, 22 Nov 2018 17:07:21 GMT; Path=/". Invalid 'expires' attribute: Thu, 22 Nov 2018 17:07:21 GMT
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:26.930
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:07:27.007
+!MESSAGE Invalid cookie header: "Set-Cookie: AWSALB=T8YVw7d4xWCE7USxKFJgv13a8EHQ25o+jIHdjeDm0mJJ8woIzXCzNuk7n4x5QKP/wkxYdQHeOkoRFzgG60gXsaqAYf9PwRStzfSjIJrfKVesZSbW2Ery4fEsAgCz; Expires=Thu, 22 Nov 2018 17:07:21 GMT; Path=/". Invalid 'expires' attribute: Thu, 22 Nov 2018 17:07:21 GMT
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:27.009
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:27.009
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:27.014
+!MESSAGE Save JSON notifications content to cache file I:\repos\eclipseWorkspaces\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:27.239
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 18:07:36.830
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-11-15 18:07:36.843
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.ui 4 4 2018-11-15 18:07:43.548
+!MESSAGE To avoid deadlock while executing Display.syncExec() with argument: org.jboss.tools.central.editors.GettingStartedHtmlPage$6$1@11a844ad, thread Worker-8 will interrupt UI thread.
+!SUBENTRY 1 org.eclipse.ui 4 4 2018-11-15 18:07:43.549
+!MESSAGE Worker-8 thread is an instance of Worker or owns an ILock
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread Worker-8
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.getThreadInfo(Unknown Source)
+	at org.eclipse.ui.internal.UILockListener.reportInterruption(UILockListener.java:206)
+	at org.eclipse.ui.internal.UILockListener.interruptUI(UILockListener.java:176)
+	at org.eclipse.ui.internal.PendingSyncExec.waitUntilExecuted(PendingSyncExec.java:82)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:153)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage$6.run(GettingStartedHtmlPage.java:332)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.ui 4 4 2018-11-15 18:07:43.550
+!MESSAGE UI thread waiting on a job or lock.
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread main
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.jboss.tools.central.installation.BundleFamilyExtension.loadStream(BundleFamilyExtension.java:81)
+	at org.jboss.tools.central.installation.BundleFamilyExtension.loadBundleList(BundleFamilyExtension.java:47)
+	at org.jboss.tools.central.installation.InstallationChecker.getUnits(InstallationChecker.java:109)
+	at org.jboss.tools.central.installation.InstallationChecker.getEarlyAccessUnits(InstallationChecker.java:97)
+	at org.jboss.tools.central.installation.InstallationChecker.hasEarlyAccess(InstallationChecker.java:90)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage.updateEarlyAccess(GettingStartedHtmlPage.java:352)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage.access$14(GettingStartedHtmlPage.java:350)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage$6$1.run(GettingStartedHtmlPage.java:335)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:58)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:168)
+	at org.eclipse.ui.internal.UILockListener.aboutToWait(UILockListener.java:136)
+	at org.eclipse.core.internal.jobs.LockManager.aboutToWait(LockManager.java:114)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:1000)
+	at org.jboss.tools.central.editors.JBossCentralEditor.dispose(JBossCentralEditor.java:134)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.invalidate(CompatibilityPart.java:252)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.destroy(CompatibilityPart.java:412)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.uninject(InjectorImpl.java:185)
+	at org.eclipse.e4.core.internal.di.Requestor.uninject(Requestor.java:172)
+	at org.eclipse.e4.core.internal.contexts.ContextObjectSupplier$ContextInjectionListener.update(ContextObjectSupplier.java:84)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.update(TrackableComputationExt.java:111)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.removeListenersTo(EclipseContext.java:482)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.uninject(ContextInjectionFactory.java:144)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:944)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$1(PartRenderingEngine.java:863)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:858)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:842)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:88)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:303)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1328)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1258)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1266)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.access$1(StackRenderer.java:1252)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$5.close(StackRenderer.java:1121)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1938)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:333)
+	at org.eclipse.swt.custom.CTabFolder$$Lambda$108/126926094.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.ui.internal.Workbench$$Lambda$14/1856963340.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:55.822
+!MESSAGE All vaadin 7+ projects : [P/MyFirstVaadinApp]
+
+!ENTRY com.vaadin.designer2 1 0 2018-11-15 18:07:56.092
+!MESSAGE Vaadin 7+ projects to upgrade : [P/MyFirstVaadinApp]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:09:18.989
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:09:21.374
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:20:44.604
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:20:45.074
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:20:46.411
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:27:32.389
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:27:32.735
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:27:34.051
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:33:37.850
+!MESSAGE Invalid cookie header: "Set-Cookie: AWSALB=mjOtwvE9c73PTCVcynhNHjlLXrvqzqcUHeMSmjfxtTXn8L4xYsYJvwdLoLZq5IRLAO4NXPqAxVgsTLeHdUYz3puMrpOsv+azNfc2b5HW/Dy8J/aFAQm2TLeSmUcv; Expires=Thu, 22 Nov 2018 17:33:32 GMT; Path=/". Invalid 'expires' attribute: Thu, 22 Nov 2018 17:33:32 GMT
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:34:18.326
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:34:20.242
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-15 18:34:21.826
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-11-15 18:35:42.332
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-11-15 18:35:58.356
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-11-15 18:38:23.273
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 1107689472 2018-11-15 18:38:27.319
+!MESSAGE JBossTools was unable to resume the JBoss deployment scanner. Your deployment may not be recognized by the server. Please ensure your version of JBoss includes an unsecured JMX adapter.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:35)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	... 6 more
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	... 7 more
+Caused by: java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(Unknown Source)
+	... 26 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.jmx.integration 4 0 2018-11-15 18:38:27.321
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	... 7 more
+Caused by: java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(Unknown Source)
+	... 26 more
+!SUBENTRY 2 org.jboss.ide.eclipse.as.jmx.integration 4 0 2018-11-15 18:38:27.322
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(Unknown Source)
+	... 26 more
+!SUBENTRY 3 org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:27.322
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 0
+java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(Unknown Source)
+	... 26 more
+
+!ENTRY org.jboss.ide.eclipse.as.ui 2 0 2018-11-15 18:38:27.329
+!MESSAGE Server stopped before before browser could be opened.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:38.883
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.findPort(JBossServer.java:207)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getJBossWebPort(JBossServer.java:195)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getWebPort(JBossServer.java:191)
+	at org.jboss.ide.eclipse.as.core.server.internal.DeployableServer.getModuleRootURL(DeployableServer.java:224)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLaunchAdapter.getLaunchable(JBossLaunchAdapter.java:78)
+	at org.eclipse.wst.server.core.internal.LaunchableAdapter.getLaunchable(LaunchableAdapter.java:76)
+	at org.eclipse.wst.server.ui.internal.ServerUIPlugin.getLaunchableAdapter(ServerUIPlugin.java:1267)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.updateClients(OptionalClientWizardFragment.java:65)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.getChildFragments(OptionalClientWizardFragment.java:113)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:325)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:329)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.getAllWizardFragments(TaskWizard.java:313)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addPages(TaskWizard.java:343)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.updatePages(TaskWizard.java:390)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage$1.run(TaskWizardPage.java:129)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage.update(TaskWizardPage.java:126)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite.updateTaskModel(NewServerComposite.java:509)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite$8.runtimeSelected(NewServerComposite.java:479)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.setRuntime(NewManualServerComposite.java:701)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.updateRuntimeCombo(NewManualServerComposite.java:624)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.handleTypeSelection(NewManualServerComposite.java:898)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$1.serverTypeSelected(NewManualServerComposite.java:183)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite.handleTreeSelectionChange(ServerTypeComposite.java:87)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite$2.selectionChanged(ServerTypeComposite.java:70)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:155)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:152)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2180)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1717)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1075)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite.handleShowAdapters(AbstractTreeComposite.java:265)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite$5$1.run(AbstractTreeComposite.java:243)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.getServer(RunOnServerActionDelegate.java:137)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:295)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:764)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:41)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:38.890
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.findPort(JBossServer.java:207)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getJBossWebPort(JBossServer.java:195)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getWebPort(JBossServer.java:191)
+	at org.jboss.ide.eclipse.as.core.server.internal.DeployableServer.getModuleRootURL(DeployableServer.java:224)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLaunchAdapter.getLaunchable(JBossLaunchAdapter.java:78)
+	at org.eclipse.wst.server.core.internal.LaunchableAdapter.getLaunchable(LaunchableAdapter.java:76)
+	at org.eclipse.wst.server.ui.internal.ServerUIPlugin.getLaunchableAdapter(ServerUIPlugin.java:1267)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.updateClients(OptionalClientWizardFragment.java:65)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.getChildFragments(OptionalClientWizardFragment.java:113)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:325)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:329)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.getAllWizardFragments(TaskWizard.java:313)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addPages(TaskWizard.java:343)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.updatePages(TaskWizard.java:390)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage$1.run(TaskWizardPage.java:129)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage.update(TaskWizardPage.java:126)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite.updateTaskModel(NewServerComposite.java:509)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite$8.serverSelected(NewServerComposite.java:476)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.handleTypeSelection(NewManualServerComposite.java:912)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$1.serverTypeSelected(NewManualServerComposite.java:183)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite.handleTreeSelectionChange(ServerTypeComposite.java:87)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite$2.selectionChanged(ServerTypeComposite.java:70)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:155)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:152)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2180)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1717)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1075)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite.handleShowAdapters(AbstractTreeComposite.java:265)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite$5$1.run(AbstractTreeComposite.java:243)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.getServer(RunOnServerActionDelegate.java:137)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:295)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:764)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:41)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:38.894
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.findPort(JBossServer.java:207)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getJBossWebPort(JBossServer.java:195)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getWebPort(JBossServer.java:191)
+	at org.jboss.ide.eclipse.as.core.server.internal.DeployableServer.getModuleRootURL(DeployableServer.java:224)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLaunchAdapter.getLaunchable(JBossLaunchAdapter.java:78)
+	at org.eclipse.wst.server.core.internal.LaunchableAdapter.getLaunchable(LaunchableAdapter.java:76)
+	at org.eclipse.wst.server.ui.internal.ServerUIPlugin.getLaunchableAdapter(ServerUIPlugin.java:1267)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.updateClients(OptionalClientWizardFragment.java:65)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.getChildFragments(OptionalClientWizardFragment.java:113)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:325)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:329)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.getAllWizardFragments(TaskWizard.java:313)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addPages(TaskWizard.java:343)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.updatePages(TaskWizard.java:390)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage$1.run(TaskWizardPage.java:129)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage.update(TaskWizardPage.java:126)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite$7.update(NewServerComposite.java:469)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.handleTypeSelection(NewManualServerComposite.java:922)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$1.serverTypeSelected(NewManualServerComposite.java:183)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite.handleTreeSelectionChange(ServerTypeComposite.java:87)
+	at org.eclipse.wst.server.ui.internal.viewers.ServerTypeComposite$2.selectionChanged(ServerTypeComposite.java:70)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:155)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:152)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2180)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1717)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1075)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite.handleShowAdapters(AbstractTreeComposite.java:265)
+	at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeComposite$5$1.run(AbstractTreeComposite.java:243)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.getServer(RunOnServerActionDelegate.java:137)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:295)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:764)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:41)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:39.215
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.findPort(JBossServer.java:207)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getJBossWebPort(JBossServer.java:195)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getWebPort(JBossServer.java:191)
+	at org.jboss.ide.eclipse.as.core.server.internal.DeployableServer.getModuleRootURL(DeployableServer.java:224)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLaunchAdapter.getLaunchable(JBossLaunchAdapter.java:78)
+	at org.eclipse.wst.server.core.internal.LaunchableAdapter.getLaunchable(LaunchableAdapter.java:76)
+	at org.eclipse.wst.server.ui.internal.ServerUIPlugin.getLaunchableAdapter(ServerUIPlugin.java:1267)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.updateClients(OptionalClientWizardFragment.java:65)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.getChildFragments(OptionalClientWizardFragment.java:113)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:325)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:329)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.getAllWizardFragments(TaskWizard.java:313)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addPages(TaskWizard.java:343)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.updatePages(TaskWizard.java:390)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage$1.run(TaskWizardPage.java:129)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage.update(TaskWizardPage.java:126)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite.updateTaskModel(NewServerComposite.java:509)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite$8.runtimeSelected(NewServerComposite.java:479)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.loadServerImpl(NewManualServerComposite.java:510)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.handleHostnameChange(NewManualServerComposite.java:424)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.setHost(NewManualServerComposite.java:414)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$2.hostnameSelected(NewManualServerComposite.java:201)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.hostnameChanged(NewManualServerComposite.java:972)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$HostnameChangedAction$1.run(NewManualServerComposite.java:1072)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.getServer(RunOnServerActionDelegate.java:137)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:295)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:764)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:41)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:38:39.229
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.findPort(JBossServer.java:207)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getJBossWebPort(JBossServer.java:195)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossServer.getWebPort(JBossServer.java:191)
+	at org.jboss.ide.eclipse.as.core.server.internal.DeployableServer.getModuleRootURL(DeployableServer.java:224)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLaunchAdapter.getLaunchable(JBossLaunchAdapter.java:78)
+	at org.eclipse.wst.server.core.internal.LaunchableAdapter.getLaunchable(LaunchableAdapter.java:76)
+	at org.eclipse.wst.server.ui.internal.ServerUIPlugin.getLaunchableAdapter(ServerUIPlugin.java:1267)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.updateClients(OptionalClientWizardFragment.java:65)
+	at org.eclipse.wst.server.ui.internal.wizard.fragment.OptionalClientWizardFragment.getChildFragments(OptionalClientWizardFragment.java:113)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:325)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addSubWizardFragments(TaskWizard.java:329)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.getAllWizardFragments(TaskWizard.java:313)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.addPages(TaskWizard.java:343)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.updatePages(TaskWizard.java:390)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage$1.run(TaskWizardPage.java:129)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizardPage.update(TaskWizardPage.java:126)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite.updateTaskModel(NewServerComposite.java:509)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewServerComposite$8.runtimeSelected(NewServerComposite.java:479)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.setRuntime(NewManualServerComposite.java:701)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.updateRuntimeCombo(NewManualServerComposite.java:624)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.handleHostnameChange(NewManualServerComposite.java:435)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.setHost(NewManualServerComposite.java:414)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$2.hostnameSelected(NewManualServerComposite.java:201)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite.hostnameChanged(NewManualServerComposite.java:972)
+	at org.eclipse.wst.server.ui.internal.wizard.page.NewManualServerComposite$HostnameChangedAction$1.run(NewManualServerComposite.java:1072)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.getServer(RunOnServerActionDelegate.java:137)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:295)
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.run(RunOnServerActionDelegate.java:764)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:41)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-11-15 18:40:03.152
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-11-15 18:40:16.868
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.eclipse.jface 4 2 2018-11-15 18:46:09.120
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jface".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.core.resources.ProjectScope.<init>(ProjectScope.java:58)
+	at com.vaadin.designer2.eclipse.preferences.VisualDesignerPreferences.getProjectPreferences(VisualDesignerPreferences.java:680)
+	at com.vaadin.designer2.eclipse.preferences.VisualDesignerPreferences.getDefaultDesigner(VisualDesignerPreferences.java:245)
+	at com.vaadin.designer2.eclipse.preferences.DesignerProjectPreferencePage.createDesignerSelection(DesignerProjectPreferencePage.java:179)
+	at com.vaadin.designer2.eclipse.preferences.DesignerProjectPreferencePage.createContents(DesignerProjectPreferencePage.java:109)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:241)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1426)
+	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1193)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1185)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:591)
+	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:657)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:654)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:872)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:869)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1238)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$0(StructuredViewer.java:1261)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:81)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:261)
+	at org.eclipse.jface.util.OpenStrategy.access$5(OpenStrategy.java:256)
+	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:426)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.view.servers.PropertiesAction.perform(PropertiesAction.java:49)
+	at org.eclipse.wst.server.ui.internal.view.servers.AbstractServerAction.run(AbstractServerAction.java:64)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.jface 4 2 2018-11-15 18:46:14.020
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jface".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.core.resources.ProjectScope.<init>(ProjectScope.java:58)
+	at com.vaadin.designer.eclipse.preferences.VisualDesignerPreferences.getProjectPreferences(VisualDesignerPreferences.java:700)
+	at com.vaadin.designer.eclipse.preferences.VisualDesignerPreferences.getDefaultDesigner(VisualDesignerPreferences.java:242)
+	at com.vaadin.designer.eclipse.preferences.DesignerProjectPreferencePage.createDesignerSelection(DesignerProjectPreferencePage.java:179)
+	at com.vaadin.designer.eclipse.preferences.DesignerProjectPreferencePage.createContents(DesignerProjectPreferencePage.java:109)
+	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:241)
+	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1426)
+	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1193)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1185)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:591)
+	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:657)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:654)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:872)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:869)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1238)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$0(StructuredViewer.java:1261)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:81)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:261)
+	at org.eclipse.jface.util.OpenStrategy.access$5(OpenStrategy.java:256)
+	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:426)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.wst.server.ui.internal.view.servers.PropertiesAction.perform(PropertiesAction.java:49)
+	at org.eclipse.wst.server.ui.internal.view.servers.AbstractServerAction.run(AbstractServerAction.java:64)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:47:16.136
+!MESSAGE Failed to restart: java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-11-15 18:47:16.291
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:47:17.152
+!MESSAGE Failed to call the method close():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 1107689472 2018-11-15 18:47:17.154
+!MESSAGE JBossTools was unable to resume the JBoss deployment scanner. Your deployment may not be recognized by the server. Please ensure your version of JBoss includes an unsecured JMX adapter.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:35)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	... 6 more
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	... 7 more
+Caused by: java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.jmx.integration 4 0 2018-11-15 18:47:17.155
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	... 7 more
+Caused by: java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+!SUBENTRY 2 org.jboss.ide.eclipse.as.jmx.integration 4 0 2018-11-15 18:47:17.155
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:228)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+Caused by: java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	... 11 more
+!SUBENTRY 3 org.jboss.ide.eclipse.as.core 4 0 2018-11-15 18:47:17.155
+!MESSAGE Error connecting to remote JMX. Please ensure your server is properly configured for JMX access.
+!STACK 0
+java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at com.sun.jmx.remote.internal.PRef.invoke(Unknown Source)
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source)
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(Unknown Source)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.getAttributeResult(JBossLT6ModuleStateVerifier.java:267)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBoss6ModuleStateVerifier.checkStandaloneWebModuleStarted(JBoss6ModuleStateVerifier.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkWebModuleStarted(JBossLT6ModuleStateVerifier.java:239)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.checkDeploymentStarted(JBossLT6ModuleStateVerifier.java:230)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.jmxWaitForDeploymentStarted(JBossLT6ModuleStateVerifier.java:213)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier$3.run(JBossLT6ModuleStateVerifier.java:185)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner$1.run(JBossServerJMXRunner.java:28)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:213)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:161)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:136)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:131)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossJMXConnectionProviderModel.run(JBossJMXConnectionProviderModel.java:81)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerJMXRunner.run(JBossServerJMXRunner.java:32)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitJMX(JBossLT6ModuleStateVerifier.java:199)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:179)
+	at org.jboss.ide.eclipse.as.core.server.internal.JBossLT6ModuleStateVerifier.waitModuleStarted(JBossLT6ModuleStateVerifier.java:169)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+
+!ENTRY org.jboss.ide.eclipse.as.ui 2 0 2018-11-15 18:47:17.164
+!MESSAGE Server stopped before before browser could be opened.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-11-15 18:47:17.337
+!MESSAGE Server Starting
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:47:20.134
+!MESSAGE Failed to check connection: java.net.ConnectException: Connection refused: connect
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:47:20.135
+!MESSAGE stopping
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-11-15 18:47:27.852
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-11-15 18:50:04.365
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-11-15 18:50:05.432
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-11-15 18:50:15.364
+!MESSAGE Server Startup Succeeded
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:50:28.030
+!MESSAGE Failed to restart: java.rmi.NoSuchObjectException: no such object in table
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:50:28.047
+!MESSAGE Failed to check connection: java.rmi.NoSuchObjectException: no such object in table
+
+!ENTRY com.vaadin.designer2 2 0 2018-11-15 18:50:28.048
+!MESSAGE stopping
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 4 0 2018-11-15 18:51:16.433
+!MESSAGE Errors while deleting binary module person-service-2.0.jar
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-11-15 18:51:16.433
+!MESSAGE Could not delete I:\repos\eclipseWorkspaces\.metadata\.plugins\org.jboss.ide.eclipse.as.core\JBoss_AS_6.x_(3)1542303552325\deploy\app-0.0.1-SNAPSHOT.war\WEB-INF\lib\person-service-2.0.jar. May be locked by another process.
+!STACK 0
+java.nio.file.FileSystemException: I:\repos\eclipseWorkspaces\.metadata\.plugins\org.jboss.ide.eclipse.as.core\JBoss_AS_6.x_(3)1542303552325\deploy\app-0.0.1-SNAPSHOT.war\WEB-INF\lib\person-service-2.0.jar: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(Unknown Source)
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(Unknown Source)
+	at java.nio.file.Files.deleteIfExists(Unknown Source)
+	at org.jboss.ide.eclipse.as.wtp.core.server.behavior.LocalFilesystemController.deleteResource(LocalFilesystemController.java:262)
+	at org.jboss.ide.eclipse.as.wtp.core.server.publish.BinaryModulePublishRunner.removeNestedSingleResourceBinary(BinaryModulePublishRunner.java:92)
+	at org.jboss.ide.eclipse.as.wtp.core.server.publish.BinaryModulePublishRunner.removeDeletedBinaryModule(BinaryModulePublishRunner.java:106)
+	at org.jboss.ide.eclipse.as.wtp.core.server.publish.BinaryModulePublishRunner.publishModuleFull(BinaryModulePublishRunner.java:167)
+	at org.jboss.tools.as.core.server.controllable.subsystems.StandardFileSystemPublishController.handlePublishBinaryModule(StandardFileSystemPublishController.java:472)
+	at org.jboss.tools.as.core.server.controllable.subsystems.StandardFileSystemPublishController.publishModule(StandardFileSystemPublishController.java:375)
+	at org.jboss.ide.eclipse.as.wtp.core.server.behavior.ControllableServerBehavior.publishModule(ControllableServerBehavior.java:143)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 unknown 0 0 2018-11-15 18:51:16.433
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-11-15 18:51:19.808
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 

@@ -12,4 +12,5 @@
 <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
 <fullyQualifiedTypeName name="java.awt.GridLayout"/>
 <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="com.vaadin.cdi.CDIUI"/>
 </qualifiedTypeNameHistroy>

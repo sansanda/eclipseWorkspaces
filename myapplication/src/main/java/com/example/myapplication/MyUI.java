@@ -1,5 +1,8 @@
 package com.example.myapplication;
 
+import java.util.List;
+import java.util.ListIterator;
+
 import javax.servlet.annotation.WebServlet;
 
 import com.vaadin.annotations.Theme;
@@ -7,6 +10,7 @@ import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.server.VaadinServlet;
 import com.vaadin.ui.Button;
+import com.vaadin.ui.Grid;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
 import com.vaadin.ui.TextField;
@@ -23,19 +27,32 @@ import com.vaadin.ui.VerticalLayout;
 @Theme("mytheme")
 public class MyUI extends UI {
 
+	private CustomerService cs = CustomerService.getInstance();
+	private Grid<Customer> grid = new Grid<Customer>(Customer.class);
+	
     @Override
     protected void init(VaadinRequest vaadinRequest) {
-    	TextField tf = new TextField("Name");
-    	Button button = new Button("Helo World!!!");
-    	button.addClickListener(e-> {Notification.show("Helo "+tf.getValue()+"!!!!");});
-        VerticalLayout v = new VerticalLayout();
-        v.setMargin(true);
-        v.setSpacing(true);
+    	
+        VerticalLayout layout = new VerticalLayout();
+        layout.setMargin(true);
+        layout.setSpacing(true);
         
-        v.addComponents(tf,button);
-    	setContent(v);
+        
+        grid.setColumns("id","firstName", "lastName", "email","birthDate","status");
+        updateList();
+        layout.addComponent(grid);
+        
+        
+        
+    	setContent(layout);
     }
 
+    public void updateList() 
+    {
+        List<Customer> customers = cs.findAll();
+        grid.setItems(customers);
+    }
+    
     @WebServlet(urlPatterns = "/*", name = "MyUIServlet", asyncSupported = true)
     @VaadinServletConfiguration(ui = MyUI.class, productionMode = false)
     public static class MyUIServlet extends VaadinServlet {

@@ -2567,3 +2567,15 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/EventBus/src/
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-16 01:32:33.321
 !MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 01:44:21.429
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 01:44:21.430
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 01:51:46.881
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 01:51:46.883
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'

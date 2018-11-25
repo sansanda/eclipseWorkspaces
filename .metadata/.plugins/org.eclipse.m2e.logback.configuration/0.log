@@ -2067,3 +2067,261 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2018-11-16 01:34:52,532 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
 2018-11-16 01:34:56,450 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
 2018-11-16 01:34:56,451 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-16 01:37:32,651 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-16 01:37:32,786 [Thread-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-16 01:37:32,786 [Thread-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-16 01:37:32,786 [Thread-39] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-16 01:37:32,786 [Thread-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 4ms
+2018-11-16 01:37:32,806 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" updated
+2018-11-16 01:37:32,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-16 01:37:34,512 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" compiled
+2018-11-16 01:37:34,513 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:37:34,513 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-16 01:37:34,514 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:37:34,514 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:42:46,878 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:42:46,879 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:42:46,880 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:42:46,880 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:42:50,840 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-16 01:42:50,840 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-16 01:44:01,399 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-16 01:44:01,399 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-16 01:44:01,592 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:44:01,592 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:44:01,594 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:44:01,594 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:46:31,006 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:46:31,007 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:46:31,009 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:46:31,009 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:46:37,468 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:46:37,469 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:46:37,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:46:37,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:47:40,632 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:47:40,633 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:47:40,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:47:40,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:49:39,105 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:49:39,106 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:49:39,107 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:49:39,107 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:50:01,662 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:50:01,663 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:50:01,664 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:50:01,664 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:50:54,552 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:50:54,553 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:50:54,554 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:50:54,554 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:51:44,276 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:51:44,277 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:51:44,278 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:51:44,278 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:51:51,148 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:51:51,148 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:51:51,149 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:51:51,149 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:52:26,008 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/com/vaadin/vaadin-server/8.6.1/vaadin-server-8.6.1-sources.jar
+2018-11-16 01:52:26,377 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vaadin/vaadin-server/8.6.1/vaadin-server-8.6.1-sources.jar
+2018-11-16 01:52:27,448 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vaadin/vaadin-server/8.6.1/vaadin-server-8.6.1-sources.jar
+2018-11-16 01:52:27,857 [Worker-41] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vaadin:vaadin-server:8.6.1
+2018-11-16 01:52:28,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:52:28,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-16 01:52:28,049 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:52:28,049 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:53:15,711 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:53:15,712 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:53:15,713 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:53:15,713 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:57:51,832 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-16 01:57:51,969 [Thread-348] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-16 01:57:51,969 [Thread-348] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-16 01:57:51,969 [Thread-348] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-16 01:57:51,969 [Thread-348] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 5ms
+2018-11-16 01:57:51,987 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" updated
+2018-11-16 01:57:51,991 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-16 01:57:53,589 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" compiled
+2018-11-16 01:57:53,591 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:57:53,591 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-16 01:57:53,592 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:57:53,592 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:57:56,464 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:57:56,464 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:57:56,465 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:57:56,465 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:58:25,442 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:58:25,443 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:58:25,444 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:58:25,444 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 01:58:34,770 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:58:34,770 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 01:58:34,771 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 01:58:34,771 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:04:44,238 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:04:44,238 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:04:44,239 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:04:44,239 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:04:48,309 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:04:48,310 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:04:48,311 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:04:48,311 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:05:05,804 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:05:05,805 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:05:05,806 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:05:05,806 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:05:34,149 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:05:34,149 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:05:34,150 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:05:34,150 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:06:51,074 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:06:51,074 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:06:51,075 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:06:51,076 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:12:43,020 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:12:43,020 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:12:43,022 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:12:43,022 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:12:50,348 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:12:50,348 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:12:50,349 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:12:50,349 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:17:00,140 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:17:00,141 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:17:00,142 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:17:00,142 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:23:14,711 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:23:14,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:23:14,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:23:14,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:24:19,684 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:24:19,684 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:24:19,685 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:24:19,686 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:25:13,070 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:25:13,070 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:25:13,071 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:25:13,072 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:26:08,528 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:26:08,529 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:26:08,529 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:26:08,529 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:30:12,371 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:30:12,371 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:30:12,372 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:30:12,372 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:32:22,302 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:22,302 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:32:22,303 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:22,304 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:32:37,597 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:37,597 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:32:37,598 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:37,598 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:32:55,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:55,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:32:55,571 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:32:55,571 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:33:17,949 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:33:17,949 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:33:17,950 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:33:17,950 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:34:09,413 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:34:09,413 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:34:09,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:34:09,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:34:56,828 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:34:56,828 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:34:56,829 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:34:56,829 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:35:59,346 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:35:59,346 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:35:59,347 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:35:59,348 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:37:07,364 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:37:07,364 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:37:07,365 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:37:07,365 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:37:31,819 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:37:31,819 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:37:31,820 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:37:31,821 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:38:12,673 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:38:12,673 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:38:12,674 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:38:12,674 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:38:59,602 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-16 02:38:59,603 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-16 02:39:41,954 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-16 02:39:41,954 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-16 02:40:20,651 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:40:20,651 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:40:20,652 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:40:20,652 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-16 02:40:48,405 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:40:48,406 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-16 02:40:48,407 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-16 02:40:48,407 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-17 16:45:23,794 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-17 16:45:31,507 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-17 16:45:31,732 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-17 16:45:31,733 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-17 16:45:31,733 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-17 16:45:31,733 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 4ms
+2018-11-17 16:45:31,752 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" updated
+2018-11-17 16:45:31,776 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2018-11-17 16:45:31,777 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - No widgetsets found - generating AppWidgetset if necessary.
+2018-11-17 16:45:31,778 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset AppWidgetset
+2018-11-17 16:45:31,779 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: E:\repos\eclipseWorkspaces\myapplication\src\main\resources
+2018-11-17 16:45:31,779 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: E:\repos\eclipseWorkspaces\myapplication\target\generated-resources\gwt
+2018-11-17 16:45:31,786 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.6.1
+2018-11-17 16:45:31,924 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.6.1
+2018-11-17 16:45:33,043 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-17 16:45:33,043 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:C:/Users/gh/.m2/repository/com/vaadin/vaadin-client/8.6.1/vaadin-client-8.6.1.jar!/
+2018-11-17 16:45:33,043 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-17 16:45:33,043 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-17 16:45:33,044 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 5ms
+2018-11-17 16:45:33,071 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-17 16:45:34,814 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" compiled
+2018-11-17 16:45:34,899 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-17 16:45:34,900 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-17 16:45:34,903 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-17 16:45:34,910 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2018-11-17 16:45:34,911 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.6.1
+2018-11-17 16:45:34,915 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.6.1
+2018-11-17 16:45:34,939 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-17 16:45:34,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-17 16:45:40,199 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-17 16:45:40,200 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2018-11-17 16:48:31,113 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-17 16:48:41,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-17 16:48:41,595 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-17 16:48:41,595 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-17 16:48:41,595 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-17 16:48:41,595 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 3ms
+2018-11-17 16:48:41,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" updated
+2018-11-17 16:48:41,626 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2018-11-17 16:48:41,627 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - No widgetsets found - generating AppWidgetset if necessary.
+2018-11-17 16:48:41,628 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset AppWidgetset
+2018-11-17 16:48:41,629 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: E:\repos\eclipseWorkspaces\myapplication\src\main\resources
+2018-11-17 16:48:41,629 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: E:\repos\eclipseWorkspaces\myapplication\target\generated-resources\gwt
+2018-11-17 16:48:41,630 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.6.1
+2018-11-17 16:48:41,733 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.6.1
+2018-11-17 16:48:42,645 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2018-11-17 16:48:42,646 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:C:/Users/gh/.m2/repository/com/vaadin/vaadin-client/8.6.1/vaadin-client-8.6.1.jar!/
+2018-11-17 16:48:42,646 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2018-11-17 16:48:42,646 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2018-11-17 16:48:42,646 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 3ms
+2018-11-17 16:48:42,673 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2018-11-17 16:48:44,182 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" compiled
+2018-11-17 16:48:44,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-17 16:48:44,257 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-17 16:48:44,260 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-17 16:48:44,267 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2018-11-17 16:48:44,269 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.6.1
+2018-11-17 16:48:44,274 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.6.1
+2018-11-17 16:48:44,297 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-17 16:48:44,297 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repos\eclipseWorkspaces\myapplication\src\test\resources
+2018-11-17 16:48:44,813 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\repos\eclipseWorkspaces\myapplication
+2018-11-17 16:48:44,815 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
